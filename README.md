@@ -1,12 +1,15 @@
 # Getting Started with Create React App
 
-## Access the site here
-(https://praccco-task-tracker.netlify.app/).
+## To view how this site will look like, click the link below
+(https://task-tracker-react-practice-project.netlify.app/).
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependencies
+Install all dependencies
 ## Available Scripts
+
 
 In the project directory, you can run:
 
