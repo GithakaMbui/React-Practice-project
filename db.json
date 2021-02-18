@@ -17,12 +17,6 @@
       "text": "Nature walk",
       "day": "Feb 14th 5pm",
       "reminder": false
-    },
-    {
-      "text": "take a nap",
-      "day": "18th",
-      "reminder": false,
-      "id": 5
     }
   ]
 }
