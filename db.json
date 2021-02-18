@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Chama Appointment",
+      "day": "Feb 12th 5pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Gym",
+      "day": "Feb 13th 5pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Nature walk",
+      "day": "Feb 14th 5pm",
+      "reminder": false
+    },
+    {
+      "text": "take a nap",
+      "day": "18th",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
